@@ -19,3 +19,5 @@ Após sua finalização, o projeto permaneceu cerca de 2 anos sem receber atuali
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+
+.
